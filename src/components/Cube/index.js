@@ -2,7 +2,7 @@ import React from 'react';
 import './index.scss';
 import { Carousel } from 'react-responsive-carousel';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGitAlt, faAngular, faHtml5, faCss3, faReact, faJsSquare } from '@fortawesome/free-brands-svg-icons';
+import { faGitAlt, faHtml5, faCss3, faReact, faJsSquare, faNode } from '@fortawesome/free-brands-svg-icons';
 
 
 const Cube = () => {
@@ -11,7 +11,7 @@ const Cube = () => {
         <div className="stage-cube-cont">
           <div className="cubespinner">
             <div className="face1">
-              <FontAwesomeIcon icon={faAngular} color="#DD0031" />
+              <FontAwesomeIcon icon={faNode} color="#DD0031" />
             </div>
             <div className="face2">
               <FontAwesomeIcon icon={faHtml5} color="#F06529" />
