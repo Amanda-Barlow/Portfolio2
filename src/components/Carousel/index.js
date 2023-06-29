@@ -54,7 +54,7 @@ const CarouselPage = () => {
         <p className="legend">Fall</p>
       </div>
       <div>
-        <img src="/assets/sun devil.jpeg" alt="Sun Devil" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
+        <img src="/assets/me7.jpeg" alt="Sun Devil" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
         <p className="legend">Alumni Band</p>
       </div>
       <div>
