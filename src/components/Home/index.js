@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Cube from '../Cube';
 
+
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
     const nameArray = ['A', 'm', 'a', 'n', 'd', 'a', ' ', 'B', 'a', 'r', 'l', 'o', 'w'];
