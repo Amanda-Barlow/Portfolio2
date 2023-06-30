@@ -8,7 +8,19 @@
         width: 40%;
         max-height: 90%;
     }
-
+    .resume {
+        color: #ffd700;
+        background-color: #003049;
+        font-size: 13px;
+        font-weight: 400;
+        letter-spacing: 4px;
+        font-family: sans-serif;
+        text-decoration: none;
+        margin-top: 25px;
+        float: left;
+        animation: fadeIn ls 1.8s backwards;
+        white-space: nowrap;
+    }
     h1 {
         color: #fff;
         font-size: 53px;
@@ -72,7 +84,7 @@
             animation: fadeIn ls 1.8s backwards;
             white-space: nowrap;
         }
-
+        
         &:hover {
             background: #ffd700;
             color: #ffd;
