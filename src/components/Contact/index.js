@@ -4,6 +4,7 @@ import AnimatedLetters from '../AnimatedLetters';
 import Loader from 'react-loaders';
 import './index.scss';
 
+emailjs.init('')
 const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate');
   const refForm = useRef();
@@ -19,7 +20,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
     
-    emailjs.sendForm('gmail', 'template_cekkzso', e.target, '5JM5_hQii-VjdpfIb')
+    emailjs.sendForm('service_dno42yk', 'template_kxamkn2', e.target, '5JM5_hQii-VjdpfIb')
       .then((response) => {
         console.log('SUCCESS!', response.status, response.text);
         alert('Message successfully sent!');
