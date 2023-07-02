@@ -5,8 +5,7 @@ import './index.scss';
 
 
 
-const Projects = (props) => {
-   const  {} = props.items
+const Projects = () => {
    return (
    <div className = 'recentProj'>
         
