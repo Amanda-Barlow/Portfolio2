@@ -30,7 +30,7 @@ const CarouselPage = () => {
         <p className="legend">My Family</p>
       </div>
       <div>
-        <img src="/assets/goat on back.jpeg" alt="Our Goats" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
+        <img src="/assets/goat on back.jpeg" alt="Our Goats" style={{ maxWidth: '20em', maxHeight: '25em' }}/>
         <p className="legend">Our Goats</p>
       </div>
       <div>
@@ -58,7 +58,7 @@ const CarouselPage = () => {
         <p className="legend">Alumni Band</p>
       </div>
       <div>
-        <img src="/assets/me.jpeg" alt="Looking Forward" style={{ maxWidth: '20em', maxHeight: '21em' }}/>
+        <img src="/assets/me.jpeg" alt="Looking Forward" style={{ maxWidth: '20em', maxHeight: '25em' }}/>
         <p className="legend">Looking Forward</p>
       </div>
     </Carousel>
