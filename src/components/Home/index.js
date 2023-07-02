@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './index.scss';
 import React, { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
-// import Cube from '../Cube';
+import Cube from '../Cube';
 
 
 const Home = () => {
@@ -43,7 +43,7 @@ const Home = () => {
                     CONTACT ME
                 </Link>
             </div>
-            {/* <Cube /> */}
+            <Cube />
         </div>
     );
 };
