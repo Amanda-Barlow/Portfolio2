@@ -6,7 +6,7 @@ const CarouselPage = () => {
   return ( 
     <Carousel autoPlay infiniteLoop >
       <div>
-        <img src="/assets/ASU.jpeg" alt="ASU Alumni Band" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
+        <img src="/assets/ASU.jpeg" alt="ASU Alumni Band" style={{ maxWidth: '20em', maxHeight: '25em' }}/>
         <p className="legend">ASU Alumni</p>
       </div>
       <div>
@@ -58,7 +58,7 @@ const CarouselPage = () => {
         <p className="legend">Alumni Band</p>
       </div>
       <div>
-        <img src="/assets/me.jpeg" alt="Looking Forward" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
+        <img src="/assets/me.jpeg" alt="Looking Forward" style={{ maxWidth: '20em', maxHeight: '21em' }}/>
         <p className="legend">Looking Forward</p>
       </div>
     </Carousel>
