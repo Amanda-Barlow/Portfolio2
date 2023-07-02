@@ -6,7 +6,7 @@ import './index.scss';
 
 
 const Projects = (props) => {
-   const { img, disc } = props.items
+   const  {} = props.items
    return (
    <div className = 'recentProj'>
         
