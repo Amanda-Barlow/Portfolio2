@@ -10,10 +10,6 @@ const CarouselPage = () => {
         <p className="legend">ASU Alumni</p>
       </div>
       <div>
-        <img src="/assets/motorhome.jpeg" alt="Through Canada" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">Love To Travel</p>
-      </div>
-      <div>
         <img src="/assets/moose.jpeg" alt="Moose" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
         <p className="legend">Moose in Alaska</p>
       </div>
@@ -26,28 +22,8 @@ const CarouselPage = () => {
         <p className="legend">Family</p>
       </div>
       <div>
-        <img src="/assets/family in DR.jpeg" alt="On the Beach" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">My Family</p>
-      </div>
-      <div>
         <img src="/assets/goat on back.jpeg" alt="Our Goats" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
         <p className="legend">Our Goats</p>
-      </div>
-      <div>
-        <img src="/assets/oreo2.jpeg" alt="Our Puppy Oreo" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">Our Puppy Oreo</p>
-      </div>
-      <div>
-        <img src="/assets/ocean 2.jpeg" alt="Ocean View" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">Ocean View</p>
-      </div>
-      <div>
-        <img src="/assets/redoubt.jpeg" alt="Mt. Redoubt in Alaska" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">Mt. Redoubt in Alaska</p>
-      </div>
-      <div>
-        <img src="/assets/diy.jpeg" alt="DIY" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
-        <p className="legend">DIY Project</p>
       </div>
       <div>
         <img src="/assets/fall.jpeg" alt="Fall" style={{ maxWidth: '50%', maxHeight: '50%' }}/>
