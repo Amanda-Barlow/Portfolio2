@@ -21,14 +21,7 @@ const About = () => {
         <div className="text-zone">
           <h1>
             <div id="animationContainer">
-                <span className="animated-letter">A</span>
-                <span className="animated-letter">b</span>
-                <span className="animated-letter">o</span>
-                <span className="animated-letter">u</span>
-                <span className="animated-letter">t</span>
-                <span className="animated-letter"> </span>
-                <span className="animated-letter">M</span>
-                <span className="animated-letter">e</span>
+                <span className={letterClass}><AnimatedLetters strArray={['A', 'b', 'o', 'u', 't', ' ', 'M', 'e']}idx={15} /></span>
             </div>
           </h1>
           <div>
