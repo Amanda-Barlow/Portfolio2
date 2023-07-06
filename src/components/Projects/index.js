@@ -15,11 +15,11 @@ function Projects() {
          <h1>Reel Happy</h1>
          <h2>This application is a film review site with a twist: rate movies based on how happy they make you feel. We believe that films are more than just entertainment; they're a reflection of our lives. That's why we've created a platform where you can rate and review films based on your personal definition of happiness.<br />
          <br />A full stack application developed as a group using the MERN (Mongoose, Express, React, and Node.js) stack. Reel Happy adhered to the MVC (Models, Views and Controllers) file structure on the backend. Developers applied full CRUD to the movie review page. The site pulls from the server-side OMDB API to provide movie information. The application is deployed using Heroku. </h2>
-         <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelHome.jpeg')} alt='Reel Happy Home'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
+         {/* <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelHome.jpeg')} alt='Reel Happy Home'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
          <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelBrowse.jpeg')} alt='Reel Happy Browse'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
          <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelShow.jpeg')} alt='Reel Happy Show Page 1'style={{ maxWidth: '25em', maxHeight: '25em' }}/> 
          <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelRating.jpeg')} alt='Reel Happy Show Page 2'style={{ maxWidth: '25em', maxHeight: '25em' }}/>     
-         <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelComments.jpeg')} alt='Reel Happy Show Page 3'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
+         <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/ReelComments.jpeg')} alt='Reel Happy Show Page 3'style={{ maxWidth: '25em', maxHeight: '25em' }}/> */}
       <h4><Link to='https://reel-happy.herokuapp.com//' style={linkStyle} relative='path'>Click to Rate Reel Happy Movies</Link></h4>
       <br />
       
