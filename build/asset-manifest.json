@@ -1,13 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.df946372.css",
-    "main.js": "/static/js/main.23821804.js",
+    "main.js": "/static/js/main.10a14aee.js",
     "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
-    "static/media/reelHappyHome.png": "/static/media/reelHappyHome.41abf845dd9204723598.png",
-    "static/media/reelHappyBrowse.png": "/static/media/reelHappyBrowse.a632f552c8c579a3ed8f.png",
-    "static/media/reelHappyShow.png": "/static/media/reelHappyShow.0b7951a3b04ab2e45066.png",
-    "static/media/reelHappyShow2.png": "/static/media/reelHappyShow2.64f019c291561736cf83.png",
-    "static/media/reelHappyShow3.png": "/static/media/reelHappyShow3.19e426d7adcac2107c13.png",
+    "static/media/ReelBrowse.jpeg": "/static/media/ReelBrowse.f81ac2f9f9c411393ff8.jpeg",
+    "static/media/ReelHome.jpeg": "/static/media/ReelHome.2017c68702a86cb84161.jpeg",
     "static/media/coinShow.jpeg": "/static/media/coinShow.0c6af870b1a7f7d946b0.jpeg",
     "static/media/CoinAdd.jpeg": "/static/media/CoinAdd.fde6402e934a41d79049.jpeg",
     "static/media/plan3.jpeg": "/static/media/plan3.1ac28c7dd9793349db78.jpeg",
@@ -15,13 +12,16 @@
     "static/media/coinHome.jpeg": "/static/media/coinHome.cc673f416c32af015cae.jpeg",
     "static/media/plan2.jpeg": "/static/media/plan2.25547a2efe5fc62f8a31.jpeg",
     "static/media/plan1.jpeg": "/static/media/plan1.1cb86c8de7fc43acca50.jpeg",
+    "static/media/ReelShow.jpeg": "/static/media/ReelShow.77163d22794a7d387ea7.jpeg",
+    "static/media/ReelComments.jpeg": "/static/media/ReelComments.375527eb3adbd9c2784d.jpeg",
+    "static/media/ReelRating.jpeg": "/static/media/ReelRating.6f5a93df347a33505222.jpeg",
     "index.html": "/index.html",
     "main.df946372.css.map": "/static/css/main.df946372.css.map",
-    "main.23821804.js.map": "/static/js/main.23821804.js.map",
+    "main.10a14aee.js.map": "/static/js/main.10a14aee.js.map",
     "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df946372.css",
-    "static/js/main.23821804.js"
+    "static/js/main.10a14aee.js"
   ]
 }
