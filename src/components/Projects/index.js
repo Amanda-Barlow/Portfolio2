@@ -32,6 +32,16 @@ function Projects() {
         <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/plan2.jpeg')} alt='Show Page'style={{ maxWidth: '25em', maxHeight: '25em' }}/> 
         <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/plan3.jpeg')} alt='Show Page'style={{ maxWidth: '25em', maxHeight: '25em' }}/>     
       <br />
+
+      <div className = 'coinProj'>
+        <h1>Coin Collector</h1>
+        <h2>As a beginning coin collector, I have a stack of coins that I would like to catalog. I want to be able to see my coin collection from wherever I am and to be able to update the collection as I go. Coin Collector is a site where a user can display their coin collection..<br />
+        <br />A full stack application using Node.js, Mongoose, Express and EJS to allow coin collectors to list all of the coins in their collection.  Users will be able to add, edit and delete items. </h2>
+        <h3>Select the Github link in the Nav Bar for more details</h3>
+        <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/coinHome.jpeg')} alt='Coin Collector Home Page'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
+        <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/coinShow.jpeg')} alt='Coin Show Page'style={{ maxWidth: '25em', maxHeight: '25em' }}/> 
+        <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/CoinAdd.jpeg')} alt='Coin Add Page'style={{ maxWidth: '25em', maxHeight: '25em' }}/>     
+      <br />
    
        <div className = 'lingoProj'>
        <h1>LINGO Game</h1>
@@ -41,8 +51,9 @@ function Projects() {
       
        <h4><Link to='https://barlow-lingo.netlify.app/' style={linkStyle} relative='path'>Click to Play Lingo</Link></h4>
        
-       </div>  
-       </div>  
+            </div>  
+         </div>  
+      </div>  
    </div> 
    )
 };
