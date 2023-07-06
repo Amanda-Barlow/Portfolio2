@@ -47,8 +47,8 @@ function Projects() {
        <h1>LINGO Game</h1>
        <h2>This is a game modeled after the popular gameshow LINGO.<br />
        <br />Lingo is a word guessing game. Players get five guesses to correctly guess a five letter word. The initial game can be played with two players. Any letters that are guessed correctly in the correct spot will turn green. Any letter guessed correctly, but in the wrong spot will turn yellow. Any incorrect letter will turn red. Players win when they are the player that correctly guesses the word. </h2>
-       <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/Lingo.jpeg')} alt='LINGO Game'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
-      
+       {/* <img src = {require('/Users/amandabarlow/Desktop/PostCourse/portfolio2/src/assets/Lingo.jpeg')} alt='LINGO Game'style={{ maxWidth: '25em', maxHeight: '25em' }}/>
+       */}
        <h4><Link to='https://barlow-lingo.netlify.app/' style={linkStyle} relative='path'>Click to Play Lingo</Link></h4>
        
             </div>  
