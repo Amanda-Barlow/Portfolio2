@@ -9,7 +9,7 @@ const CarouselPage = () => {
         <img src="/assets/ASU.jpeg" alt="ASU Alumni Band" style={{ maxWidth: '20em', maxHeight: '25em' }}/>
         <p className="legend">ASU Alumni</p>
       </div>
-      <div>
+      {/* <div>
         <img src="/assets/motorhome.jpeg" alt="Through Canada" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
         <p className="legend">Love To Travel</p>
       </div>
@@ -52,7 +52,7 @@ const CarouselPage = () => {
       <div>
         <img src="/assets/fall.jpeg" alt="Fall" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
         <p className="legend">Fall</p>
-      </div>
+      </div> */}
       <div>
         <img src="/assets/me7.jpeg" alt="Sun Devil" style={{ maxWidth: '20em', maxHeight: '20em' }}/>
         <p className="legend">Alumni Band</p>
